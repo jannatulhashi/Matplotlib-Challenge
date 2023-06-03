@@ -23,7 +23,7 @@ This challenge is broken down into the following tasks:
 - Submit my final analysis.
 
 #### Prepare the Data
-1: I will run the package dependency and data imports in order to proceed. Next, I will merge the mouse_metadata and study_results DataFrames into a single DataFrame.
+1: I will run the package dependency and data imports in order to proceed. Next, I will merge the **mouse_metadata** and **study_results** DataFrames into a single DataFrame.
 
 2: After merging, I will display the count of unique mice IDs in the data. Additionally, I will check for any mouse ID that has duplicate time points. If such a mouse ID is found, I will display the data associated with it. To ensure accuracy, I will create a new DataFrame where this data is removed, resulting in a cleaned DataFrame. I will utilize this cleaned DataFrame for the subsequent steps.
 
