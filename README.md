@@ -46,8 +46,9 @@ Additionally, to visualize the distribution of female versus male mice in the st
 - For the second pie chart, I will use Matplotlib's **pyplot** methods.
 
 #### Calculate Quartiles, Find Outliers, and Create a Box Plot
-1: To calculate the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin, the quartiles and IQR, and determine if there are any potential outliers across all four treatment regimens I will use the following substeps:
- 
+1: To calculate the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin, the quartiles and IQR, and determine if there are any potential outliers across all four treatment regimens,
+I will use the following substeps:
+
  - Create a grouped DataFrame that shows the last (greatest) time point for each mouse. Merge this grouped DataFrame with the original cleaned DataFrame.
  - Create a list that holds the treatment names as well as a second, empty list to hold the tumor volume data.
  - Loop through each drug in the treatment list, locating the rows in the merged DataFrame that correspond to each treatment. Append the resulting final tumor volumes for each drug to the empty list.
