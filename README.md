@@ -3,7 +3,7 @@ Using Matplotlib to a real-world situation and dataset.
 
 ## Background
 
-![](Image)
+![](Image/Data-analysis.png)
 
 I have recently joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in developing anti-cancer medications.Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
