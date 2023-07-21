@@ -1,5 +1,5 @@
 # Matplotlib-Challenge
-Using Matplotlib to a real-world situation and dataset.
+This project aims to analyze the efficacy of the drug Capomulin and other treatment regimens in treating squamous cell carcinoma through comprehensive data analysis from an animal study conducted by Pymaceuticals, Inc.
 
 ## Background
 
